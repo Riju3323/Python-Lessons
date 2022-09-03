@@ -1,4 +1,8 @@
 from os import system
+from SA_Art import logo
+
+print(logo)
+
 
 flag = True
 
