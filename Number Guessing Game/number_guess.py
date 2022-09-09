@@ -1,7 +1,9 @@
 import random
 from os import system
+from art import logo
 
 def numgame():
+  print(logo)
   check = True
   while check==True:
     print("Welcome to the Number Guessing Game:")
