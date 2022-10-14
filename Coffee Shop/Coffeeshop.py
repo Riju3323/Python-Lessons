@@ -26,9 +26,9 @@ MENU = {
 
 profit = 0
 resources = {
-    "water": 300,
-    "milk": 200,
-    "coffee": 100,
+    "water": 600,
+    "milk": 400,
+    "coffee": 200,
 }
 
 
